@@ -1,13 +1,13 @@
 //
-//  prisbosobaUITestsLaunchTests.swift
-//  prisbosobaUITests
+//  prisposobaUITestsLaunchTests.swift
+//  prisposobaUITests
 //
 //  Created by Anton Yesenin on 17.07.26.
 //
 
 import XCTest
 
-final class prisbosobaUITestsLaunchTests: XCTestCase {
+final class prisposobaUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

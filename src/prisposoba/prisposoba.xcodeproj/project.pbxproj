@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		51D45D0D300A819500422B76 /* PBXContainerItemProxy */ = {
+		51D45D50300A850500422B76 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 51D45CF5300A819300422B76 /* Project object */;
+			containerPortal = 51D45D38300A850300422B76 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 51D45CFC300A819300422B76;
-			remoteInfo = prisbosoba;
+			remoteGlobalIDString = 51D45D3F300A850300422B76;
+			remoteInfo = prisposoba;
 		};
-		51D45D17300A819500422B76 /* PBXContainerItemProxy */ = {
+		51D45D5A300A850500422B76 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 51D45CF5300A819300422B76 /* Project object */;
+			containerPortal = 51D45D38300A850300422B76 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 51D45CFC300A819300422B76;
-			remoteInfo = prisbosoba;
+			remoteGlobalIDString = 51D45D3F300A850300422B76;
+			remoteInfo = prisposoba;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		51D45CFD300A819300422B76 /* prisbosoba.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = prisbosoba.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		51D45D0C300A819500422B76 /* prisbosobaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = prisbosobaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		51D45D16300A819500422B76 /* prisbosobaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = prisbosobaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		51D45D40300A850300422B76 /* prisposoba.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = prisposoba.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		51D45D4F300A850500422B76 /* prisposobaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = prisposobaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		51D45D59300A850500422B76 /* prisposobaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = prisposobaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		51D45CFF300A819300422B76 /* prisbosoba */ = {
+		51D45D42300A850300422B76 /* prisposoba */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = prisbosoba;
+			path = prisposoba;
 			sourceTree = "<group>";
 		};
-		51D45D0F300A819500422B76 /* prisbosobaTests */ = {
+		51D45D52300A850500422B76 /* prisposobaTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = prisbosobaTests;
+			path = prisposobaTests;
 			sourceTree = "<group>";
 		};
-		51D45D19300A819500422B76 /* prisbosobaUITests */ = {
+		51D45D5C300A850500422B76 /* prisposobaUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = prisbosobaUITests;
+			path = prisposobaUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		51D45CFA300A819300422B76 /* Frameworks */ = {
+		51D45D3D300A850300422B76 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		51D45D09300A819500422B76 /* Frameworks */ = {
+		51D45D4C300A850500422B76 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		51D45D13300A819500422B76 /* Frameworks */ = {
+		51D45D56300A850500422B76 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		51D45CF4300A819300422B76 = {
+		51D45D37300A850300422B76 = {
 			isa = PBXGroup;
 			children = (
-				51D45CFF300A819300422B76 /* prisbosoba */,
-				51D45D0F300A819500422B76 /* prisbosobaTests */,
-				51D45D19300A819500422B76 /* prisbosobaUITests */,
-				51D45CFE300A819300422B76 /* Products */,
+				51D45D42300A850300422B76 /* prisposoba */,
+				51D45D52300A850500422B76 /* prisposobaTests */,
+				51D45D5C300A850500422B76 /* prisposobaUITests */,
+				51D45D41300A850300422B76 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		51D45CFE300A819300422B76 /* Products */ = {
+		51D45D41300A850300422B76 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				51D45CFD300A819300422B76 /* prisbosoba.app */,
-				51D45D0C300A819500422B76 /* prisbosobaTests.xctest */,
-				51D45D16300A819500422B76 /* prisbosobaUITests.xctest */,
+				51D45D40300A850300422B76 /* prisposoba.app */,
+				51D45D4F300A850500422B76 /* prisposobaTests.xctest */,
+				51D45D59300A850500422B76 /* prisposobaUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		51D45CFC300A819300422B76 /* prisbosoba */ = {
+		51D45D3F300A850300422B76 /* prisposoba */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 51D45D20300A819500422B76 /* Build configuration list for PBXNativeTarget "prisbosoba" */;
+			buildConfigurationList = 51D45D63300A850500422B76 /* Build configuration list for PBXNativeTarget "prisposoba" */;
 			buildPhases = (
-				51D45CF9300A819300422B76 /* Sources */,
-				51D45CFA300A819300422B76 /* Frameworks */,
-				51D45CFB300A819300422B76 /* Resources */,
+				51D45D3C300A850300422B76 /* Sources */,
+				51D45D3D300A850300422B76 /* Frameworks */,
+				51D45D3E300A850300422B76 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				51D45CFF300A819300422B76 /* prisbosoba */,
+				51D45D42300A850300422B76 /* prisposoba */,
 			);
-			name = prisbosoba;
+			name = prisposoba;
 			packageProductDependencies = (
 			);
-			productName = prisbosoba;
-			productReference = 51D45CFD300A819300422B76 /* prisbosoba.app */;
+			productName = prisposoba;
+			productReference = 51D45D40300A850300422B76 /* prisposoba.app */;
 			productType = "com.apple.product-type.application";
 		};
-		51D45D0B300A819500422B76 /* prisbosobaTests */ = {
+		51D45D4E300A850500422B76 /* prisposobaTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 51D45D23300A819500422B76 /* Build configuration list for PBXNativeTarget "prisbosobaTests" */;
+			buildConfigurationList = 51D45D66300A850500422B76 /* Build configuration list for PBXNativeTarget "prisposobaTests" */;
 			buildPhases = (
-				51D45D08300A819500422B76 /* Sources */,
-				51D45D09300A819500422B76 /* Frameworks */,
-				51D45D0A300A819500422B76 /* Resources */,
+				51D45D4B300A850500422B76 /* Sources */,
+				51D45D4C300A850500422B76 /* Frameworks */,
+				51D45D4D300A850500422B76 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				51D45D0E300A819500422B76 /* PBXTargetDependency */,
+				51D45D51300A850500422B76 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				51D45D0F300A819500422B76 /* prisbosobaTests */,
+				51D45D52300A850500422B76 /* prisposobaTests */,
 			);
-			name = prisbosobaTests;
+			name = prisposobaTests;
 			packageProductDependencies = (
 			);
-			productName = prisbosobaTests;
-			productReference = 51D45D0C300A819500422B76 /* prisbosobaTests.xctest */;
+			productName = prisposobaTests;
+			productReference = 51D45D4F300A850500422B76 /* prisposobaTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		51D45D15300A819500422B76 /* prisbosobaUITests */ = {
+		51D45D58300A850500422B76 /* prisposobaUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 51D45D26300A819500422B76 /* Build configuration list for PBXNativeTarget "prisbosobaUITests" */;
+			buildConfigurationList = 51D45D69300A850500422B76 /* Build configuration list for PBXNativeTarget "prisposobaUITests" */;
 			buildPhases = (
-				51D45D12300A819500422B76 /* Sources */,
-				51D45D13300A819500422B76 /* Frameworks */,
-				51D45D14300A819500422B76 /* Resources */,
+				51D45D55300A850500422B76 /* Sources */,
+				51D45D56300A850500422B76 /* Frameworks */,
+				51D45D57300A850500422B76 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				51D45D18300A819500422B76 /* PBXTargetDependency */,
+				51D45D5B300A850500422B76 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				51D45D19300A819500422B76 /* prisbosobaUITests */,
+				51D45D5C300A850500422B76 /* prisposobaUITests */,
 			);
-			name = prisbosobaUITests;
+			name = prisposobaUITests;
 			packageProductDependencies = (
 			);
-			productName = prisbosobaUITests;
-			productReference = 51D45D16300A819500422B76 /* prisbosobaUITests.xctest */;
+			productName = prisposobaUITests;
+			productReference = 51D45D59300A850500422B76 /* prisposobaUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		51D45CF5300A819300422B76 /* Project object */ = {
+		51D45D38300A850300422B76 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2660;
 				LastUpgradeCheck = 2660;
 				TargetAttributes = {
-					51D45CFC300A819300422B76 = {
+					51D45D3F300A850300422B76 = {
 						CreatedOnToolsVersion = 26.6;
 					};
-					51D45D0B300A819500422B76 = {
+					51D45D4E300A850500422B76 = {
 						CreatedOnToolsVersion = 26.6;
-						TestTargetID = 51D45CFC300A819300422B76;
+						TestTargetID = 51D45D3F300A850300422B76;
 					};
-					51D45D15300A819500422B76 = {
+					51D45D58300A850500422B76 = {
 						CreatedOnToolsVersion = 26.6;
-						TestTargetID = 51D45CFC300A819300422B76;
+						TestTargetID = 51D45D3F300A850300422B76;
 					};
 				};
 			};
-			buildConfigurationList = 51D45CF8300A819300422B76 /* Build configuration list for PBXProject "prisbosoba" */;
+			buildConfigurationList = 51D45D3B300A850300422B76 /* Build configuration list for PBXProject "prisposoba" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 51D45CF4300A819300422B76;
+			mainGroup = 51D45D37300A850300422B76;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 51D45CFE300A819300422B76 /* Products */;
+			productRefGroup = 51D45D41300A850300422B76 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				51D45CFC300A819300422B76 /* prisbosoba */,
-				51D45D0B300A819500422B76 /* prisbosobaTests */,
-				51D45D15300A819500422B76 /* prisbosobaUITests */,
+				51D45D3F300A850300422B76 /* prisposoba */,
+				51D45D4E300A850500422B76 /* prisposobaTests */,
+				51D45D58300A850500422B76 /* prisposobaUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		51D45CFB300A819300422B76 /* Resources */ = {
+		51D45D3E300A850300422B76 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		51D45D0A300A819500422B76 /* Resources */ = {
+		51D45D4D300A850500422B76 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		51D45D14300A819500422B76 /* Resources */ = {
+		51D45D57300A850500422B76 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		51D45CF9300A819300422B76 /* Sources */ = {
+		51D45D3C300A850300422B76 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		51D45D08300A819500422B76 /* Sources */ = {
+		51D45D4B300A850500422B76 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		51D45D12300A819500422B76 /* Sources */ = {
+		51D45D55300A850500422B76 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		51D45D0E300A819500422B76 /* PBXTargetDependency */ = {
+		51D45D51300A850500422B76 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 51D45CFC300A819300422B76 /* prisbosoba */;
-			targetProxy = 51D45D0D300A819500422B76 /* PBXContainerItemProxy */;
+			target = 51D45D3F300A850300422B76 /* prisposoba */;
+			targetProxy = 51D45D50300A850500422B76 /* PBXContainerItemProxy */;
 		};
-		51D45D18300A819500422B76 /* PBXTargetDependency */ = {
+		51D45D5B300A850500422B76 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 51D45CFC300A819300422B76 /* prisbosoba */;
-			targetProxy = 51D45D17300A819500422B76 /* PBXContainerItemProxy */;
+			target = 51D45D3F300A850300422B76 /* prisposoba */;
+			targetProxy = 51D45D5A300A850500422B76 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		51D45D1E300A819500422B76 /* Debug */ = {
+		51D45D61300A850500422B76 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -333,7 +333,7 @@
 			};
 			name = Debug;
 		};
-		51D45D1F300A819500422B76 /* Release */ = {
+		51D45D62300A850500422B76 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -389,7 +389,7 @@
 			};
 			name = Release;
 		};
-		51D45D21300A819500422B76 /* Debug */ = {
+		51D45D64300A850500422B76 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -409,7 +409,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = yesenin.prisbosoba;
+				PRODUCT_BUNDLE_IDENTIFIER = yesenin.prisposoba;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -421,7 +421,7 @@
 			};
 			name = Debug;
 		};
-		51D45D22300A819500422B76 /* Release */ = {
+		51D45D65300A850500422B76 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -441,7 +441,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = yesenin.prisbosoba;
+				PRODUCT_BUNDLE_IDENTIFIER = yesenin.prisposoba;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -453,7 +453,7 @@
 			};
 			name = Release;
 		};
-		51D45D24300A819500422B76 /* Debug */ = {
+		51D45D67300A850500422B76 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -463,18 +463,18 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				MACOSX_DEPLOYMENT_TARGET = 26.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = yesenin.prisbosobaTests;
+				PRODUCT_BUNDLE_IDENTIFIER = yesenin.prisposobaTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/prisbosoba.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/prisbosoba";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/prisposoba.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/prisposoba";
 			};
 			name = Debug;
 		};
-		51D45D25300A819500422B76 /* Release */ = {
+		51D45D68300A850500422B76 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -484,18 +484,18 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				MACOSX_DEPLOYMENT_TARGET = 26.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = yesenin.prisbosobaTests;
+				PRODUCT_BUNDLE_IDENTIFIER = yesenin.prisposobaTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/prisbosoba.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/prisbosoba";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/prisposoba.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/prisposoba";
 			};
 			name = Release;
 		};
-		51D45D27300A819500422B76 /* Debug */ = {
+		51D45D6A300A850500422B76 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -503,18 +503,18 @@
 				DEVELOPMENT_TEAM = F8Z2DWPEET;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = yesenin.prisbosobaUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = yesenin.prisposobaUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TEST_TARGET_NAME = prisbosoba;
+				TEST_TARGET_NAME = prisposoba;
 			};
 			name = Debug;
 		};
-		51D45D28300A819500422B76 /* Release */ = {
+		51D45D6B300A850500422B76 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -522,57 +522,57 @@
 				DEVELOPMENT_TEAM = F8Z2DWPEET;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = yesenin.prisbosobaUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = yesenin.prisposobaUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TEST_TARGET_NAME = prisbosoba;
+				TEST_TARGET_NAME = prisposoba;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		51D45CF8300A819300422B76 /* Build configuration list for PBXProject "prisbosoba" */ = {
+		51D45D3B300A850300422B76 /* Build configuration list for PBXProject "prisposoba" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				51D45D1E300A819500422B76 /* Debug */,
-				51D45D1F300A819500422B76 /* Release */,
+				51D45D61300A850500422B76 /* Debug */,
+				51D45D62300A850500422B76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		51D45D20300A819500422B76 /* Build configuration list for PBXNativeTarget "prisbosoba" */ = {
+		51D45D63300A850500422B76 /* Build configuration list for PBXNativeTarget "prisposoba" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				51D45D21300A819500422B76 /* Debug */,
-				51D45D22300A819500422B76 /* Release */,
+				51D45D64300A850500422B76 /* Debug */,
+				51D45D65300A850500422B76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		51D45D23300A819500422B76 /* Build configuration list for PBXNativeTarget "prisbosobaTests" */ = {
+		51D45D66300A850500422B76 /* Build configuration list for PBXNativeTarget "prisposobaTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				51D45D24300A819500422B76 /* Debug */,
-				51D45D25300A819500422B76 /* Release */,
+				51D45D67300A850500422B76 /* Debug */,
+				51D45D68300A850500422B76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		51D45D26300A819500422B76 /* Build configuration list for PBXNativeTarget "prisbosobaUITests" */ = {
+		51D45D69300A850500422B76 /* Build configuration list for PBXNativeTarget "prisposobaUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				51D45D27300A819500422B76 /* Debug */,
-				51D45D28300A819500422B76 /* Release */,
+				51D45D6A300A850500422B76 /* Debug */,
+				51D45D6B300A850500422B76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 51D45CF5300A819300422B76 /* Project object */;
+	rootObject = 51D45D38300A850300422B76 /* Project object */;
 }

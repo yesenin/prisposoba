@@ -1,14 +1,14 @@
 //
-//  prisbosobaTests.swift
-//  prisbosobaTests
+//  prisposobaTests.swift
+//  prisposobaTests
 //
 //  Created by Anton Yesenin on 17.07.26.
 //
 
 import Testing
-@testable import prisbosoba
+@testable import prisposoba
 
-struct prisbosobaTests {
+struct prisposobaTests {
 
     @Test func example() async throws {
         // Write your test here and use APIs like `#expect(...)` to check expected conditions.

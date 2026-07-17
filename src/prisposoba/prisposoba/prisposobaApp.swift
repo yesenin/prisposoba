@@ -1,6 +1,6 @@
 //
-//  prisbosobaApp.swift
-//  prisbosoba
+//  prisposobaApp.swift
+//  prisposoba
 //
 //  Created by Anton Yesenin on 17.07.26.
 //
@@ -9,7 +9,7 @@ import SwiftUI
 import SwiftData
 
 @main
-struct prisbosobaApp: App {
+struct prisposobaApp: App {
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
             Item.self,

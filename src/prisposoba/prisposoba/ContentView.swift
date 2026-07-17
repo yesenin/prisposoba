@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  prisbosoba
+//  prisposoba
 //
 //  Created by Anton Yesenin on 17.07.26.
 //
